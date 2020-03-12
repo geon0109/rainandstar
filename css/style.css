@@ -78,10 +78,6 @@ body, input, textarea, select, table, button {
   color: #666;
 }
 
-body {
-  overflow-x: hidden;
-}
-
 a {
   color: #666;
 }
