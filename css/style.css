@@ -65,6 +65,10 @@ article, aside, footer, header, nav, section {
   width: 1000px;
 }
 
+body {
+  min-width: 1400px;
+}
+
 body, input, textarea, select, table, button {
   font-style: normal;
   font-weight: 400;
